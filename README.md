@@ -12,7 +12,7 @@
 
 ## Демо
 
-> 🔗 Live‑демо: *добавь сюда ссылку на GitHub Pages / Vercel / Netlify, если используешь деплой*
+> 🔗 Live‑демо: (https://shutnik8.github.io/Python-Cheat-Sheet-Retro-TV/)
 
 ---
 
