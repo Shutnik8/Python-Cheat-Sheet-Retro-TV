@@ -12,7 +12,7 @@
 
 ## Демо
 
-> 🔗 Live‑демо: (https://shutnik8.github.io/Python-Cheat-Sheet-Retro-TV/)
+> 🔗 [Live‑демо:] (https://shutnik8.github.io/Python-Cheat-Sheet-Retro-TV/)
 
 ---
 
